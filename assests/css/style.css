@@ -593,3 +593,22 @@ table td:hover{
         color: #e11763;
     } 
 }
+
+@media screen and (min-width:400px), (max-width:439px) {
+    
+     .left_content1,.left_content2{
+        margin-bottom: 5rem;
+        padding: 0.5rem;
+    }
+    .about_section{
+        height: 1000px;
+        width: 100%;
+    }
+    .about{
+        height: 900px;
+        width: 100%;
+        display: flex;
+        display: flex;
+        flex-direction: column;
+    }
+}
