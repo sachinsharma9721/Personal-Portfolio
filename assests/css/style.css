@@ -612,7 +612,9 @@ table td:hover{
         flex-direction: column;
     }
 }
-
+.git-btn{
+    margin-top: 30px;
+}
 
 /* CSS for project section
 #projects {
